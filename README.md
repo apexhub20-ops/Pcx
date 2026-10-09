@@ -1,3 +1,3 @@
-lreturn {
+return {
     ["farminfinita001"] = "Dono"
     
